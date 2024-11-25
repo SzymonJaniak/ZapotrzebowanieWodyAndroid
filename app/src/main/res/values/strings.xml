@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZapotrzebowanieDzienneWody</string>
+    <string name="waga_cia_a_kg">Waga ciała (kg)</string>
+    <string name="czy_jeste_osob_aktywn_fizycznie">Czy jesteś osobą aktywną fizycznie?</string>
+    <string name="oblicz">Oblicz</string>
+    <string name="podsumowanie">Podsumowanie</string>
+    <string name="wr">Wróć</string>
+</resources>
